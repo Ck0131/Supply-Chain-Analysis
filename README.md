@@ -20,7 +20,7 @@
 
 This Power BI report provides a **360° view of supply chain performance** — from sales revenue and cost of goods sold to logistics delays, warehouse operations, and supplier contributions. Designed for data-driven decision-making across operations, procurement, and executive teams.
 
-- 📅 **Created From:** Power BI Cloud
+- 📅 **Created From:** Power BI Desktop
 - 🗓️ **Report Version:** 2026.02
 - 📊 **Pages:** 4 dashboards + 1 drill-through
 - 📁 **File Size:** ~1.4 MB
