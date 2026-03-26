@@ -30,7 +30,7 @@ This Power BI report provides a **360° view of supply chain performance** — f
 
 
 
-![Bank Churn Dashboard](https://github.com/Ck0131/Supply-Chain-Analysis/blob/main/E%20S%20C.png)
+![Supply Chain Analysis Dashboard](https://github.com/Ck0131/Supply-Chain-Analysis/blob/main/E%20S%20C.png)
 
 ## 📋 Report Pages
 
@@ -137,6 +137,8 @@ This Power BI report provides a **360° view of supply chain performance** — f
 
 ### ✅ Prerequisites
 - Download and install **[Power BI Desktop](https://powerbi.microsoft.com/desktop/)** *(Free)*
+### Git Clone 
+- ![Git clone](https://github.com/Ck0131/Supply-Chain-Analysis.git)
 
 ### 📥 Installation
 
