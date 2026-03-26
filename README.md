@@ -26,6 +26,11 @@ This Power BI report provides a **360° view of supply chain performance** — f
 - 📁 **File Size:** ~1.4 MB
 
 ---
+## 📊 Dashboard Preview
+
+
+
+![Bank Churn Dashboard]()
 
 ## 📋 Report Pages
 
