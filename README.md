@@ -30,7 +30,7 @@ This Power BI report provides a **360° view of supply chain performance** — f
 
 
 
-![Supply Chain Analysis Dashboard](https://github.com/Ck0131/Supply-Chain-Analysis/blob/main/E%20S%20C.png)
+![Supply Chain Analysis Dashboard](https://github.com/Ck0131/Supply-Chain-Analysis/blob/main/Report%20Image/E%20S%20C.png)
 
 ## 📋 Report Pages
 
