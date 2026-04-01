@@ -144,7 +144,7 @@ This Power BI report provides a **360° view of supply chain performance** — f
 
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/Supply_Chain_PowerBI.git
+git clone[https://github.com/Ck0131/Supply-Chain-Analysis.git]
 
 # Navigate into the folder
 cd Supply_Chain_PowerBI
